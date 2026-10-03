@@ -17,10 +17,10 @@ Research focus:
   🔗 https://ieeexplore.ieee.org/document/11467763
 
 - **A Platform-Agnostic Reference Architecture for Digital Twins in Urban Environmental Monitoring and Predictive Analytics**  
-  Under review at IEEE DTPI 2026
+  Accepted and Presented at IEEE DTPI 2026 in Cambridge, UK 
 
 - **A Sustainability-Oriented Governance Framework for AI-Enabled Smart City Digital Twins**  
-  Under review at IEEE TEMSMET 2026
+  Accepted and Scheduled for Presentation at IEEE TEMSMET 2026
 
 ## Current Research Direction
 
